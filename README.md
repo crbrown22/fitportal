@@ -5,7 +5,7 @@ Fun Fitness game that takes the thinking of putting together a quick at home wor
 #Features:
 
 Log in
-Choose exercise format
+Choose exercise format /
 Program will run through and select excerises and reps at random
 
 #Usage:
@@ -18,9 +18,9 @@ git clone https://github.com/crbrown22/fitportal.git
 #Contributing: 
 If you want to contribute, please follow these steps:
 
-Fork the repository 
-Create a new branch 
-Make your changes 
+Fork the repository /
+Create a new branch /
+Make your changes /
 Submit a pull request
 
 #License:
